@@ -85,7 +85,7 @@ Ask questions publicly in the email group.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 ## Project Schedule
-This is the first part of a larger project. The final project schedule is [here][schedule]
+This is the first part of a larger project. The final project schedule is [here][schedule].
 
 <!-- Links -->
 [schedule]: https://github.com/oplS17projects/FP-Schedule
