@@ -54,7 +54,9 @@ I wanted to start out by externally launching VLC.
 There are numerous parameters that may be used to launch VLC.
 I chose the most cleanest code possible:
 
-```(start-vlc)```
+```
+(start-vlc)
+```
 
 This code will launch the VLC application cleanly (ie.: no auto-playing).
 
