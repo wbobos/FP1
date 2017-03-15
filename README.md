@@ -2,7 +2,7 @@
 
 William Bobos
 
-#Introduction
+# Introduction
 My background spans many areas, primarily the art side.
 I worked in 2D/3D animation, web design, game development, and many other
 industries.
@@ -10,7 +10,7 @@ industries.
 I'm also a big fan of movies, music, and home theater.
 I decided to try out the VLC library, since I use that across all my PCs.
 
-#Installation
+# Installation
 Well installation was supposedly straightforward. To use the VLC library,
 a simple line of code was needed:
 
@@ -29,7 +29,7 @@ After tireless eons of searching, I found a solution.
 
 Once the above line was substituted, I was able to interface with VLC.
 
-#Experimentation
+# Experimentation
 I started with simple goals:
 
 * import VLC
